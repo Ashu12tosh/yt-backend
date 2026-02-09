@@ -1,0 +1,17 @@
+{
+  "name": "video-platform",
+  "version": "1.0.0",
+  "description": "backend for video uploading platform and viewing it something like yt with additional features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "backend",
+    "development"
+  ],
+  "author": "Ashutosh",
+  "license": "ISC"
+}
