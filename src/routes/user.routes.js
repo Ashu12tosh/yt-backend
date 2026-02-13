@@ -30,6 +30,7 @@ router.route("/login").post(loginUser);
 
 router.route("/logout").post(verifyJWT, logoutUser);
 
+//refresh token route, user can get new access token using refresh token
 router.route("/refresh-token").post(refreshAccessToken);
 
 export default router;
